@@ -2,7 +2,8 @@ module FancyDance
     module InstanceMethods
         def twirl
             "I'm twirling!"
-            enddef jump
+        end
+        def jump
             "Look how high I'm jumping!"
         end
 
